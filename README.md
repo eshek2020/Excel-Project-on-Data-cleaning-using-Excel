@@ -1,2 +1,1 @@
-# Excel-Project-on-Data-cleaning-using-Excel
-Analyzed datasets through data cleaning, visualization, and interpretation to help businesses and projects make informed, data-driven decision.
+Performed a comprehensive data analysis and visualization using Microsoft Excel. I began by duplicating the original dataset to create a working sheet, ensuring the raw data remained intact. I then carried out data cleaning by removing duplicates, standardizing inconsistent entries, and formatting data types for accuracy. Using PivotTables and charts, I developed a clear visualization dashboard that illustrates the average income performance across gender and marital status groups. The dashboard provides insights into income trends between married and single males and females.
