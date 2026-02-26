@@ -2,9 +2,9 @@
 
 ## 📖 Table of Contents
 * [Project Overview](#-project-overview)
-* [Data Cleaning Process](#-data-cleaning-process)
+* [Data Cleaning Process](#%EF%B8%8F-data-cleaning-process)
 * [Technical Skills Demonstrated](#-technical-skills-demonstrated)
-* [Data Preview & Dashboard](#-data-preview--dashboard)
+* [Data Preview & Dashboard](#%EF%B8%8F-data-preview--dashboard)
 
 ---
 
